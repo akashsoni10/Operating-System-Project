@@ -1,4 +1,4 @@
-// This part contain function like calculation of turn around time and average turn around time 
+// This part contain function like calculation of turn around time and average turn around time using for loops 
 
 void tatm()
 {
