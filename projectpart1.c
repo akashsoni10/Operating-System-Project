@@ -1,4 +1,4 @@
-// This Part Contain declaration of variables ,array ,and calculating waiting time ,and average waiting time.
+// This Part Contain declaration of variables ,array ,and calculating waiting time ,and average waiting time function.
 
 #include<stdio.h>
 #include<conio.h>
