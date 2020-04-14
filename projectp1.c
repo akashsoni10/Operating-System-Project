@@ -1,3 +1,5 @@
+// This Part Contain declaration of variables, array, calculation of waiting time and average waiting time
+
 #include<stdio.h>
 #include<conio.h>
 int j,i,k,n,arv[10],burst[10],wait[10],tat[10];
