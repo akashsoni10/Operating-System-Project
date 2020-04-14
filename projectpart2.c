@@ -1,3 +1,5 @@
+// This part contain function like calculation of turn around time and average turn around time 
+
 void tatm()
 {
 	for(i=0;i<n;i++)
