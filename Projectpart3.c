@@ -1,3 +1,5 @@
+// 3rd part of code contain claculation of total time and main function contain input from user
+
 void tottime()
 {
 	int ttime=0,xtra;
